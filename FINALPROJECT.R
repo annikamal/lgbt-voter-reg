@@ -1,8 +1,8 @@
 ## Final project
 ## Name: Annika Malhotra
 
-## setting working directory
-setwd("C:/Users/malho/OneDrive/Desktop/R")
+## set working directory
+setwd()
 
 ## viewing the database
 ces2020 <- read.csv("CES2020.csv")
